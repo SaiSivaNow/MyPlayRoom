@@ -1,0 +1,1 @@
+The file new.py has the quora extraction program, you need to enter your preferred topics in the url and also you need to enter your user id and password into it. Once done, run the file. It gives output in excel format.

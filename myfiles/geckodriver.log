@@ -1,0 +1,22 @@
+1525599057136	geckodriver	INFO	geckodriver 0.20.1
+1525599057152	geckodriver	INFO	Listening on 127.0.0.1:59427
+1525599060221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SAISIV~1\\AppData\\Local\\Temp\\rust_mozprofile.A1Q5gT9Pu98p"
+1525599065220	Marionette	INFO	Enabled via --marionette
+1525599071870	Marionette	INFO	Listening on port 59435
+1525599071966	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Sai Siva\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://qsbr.ec.quoracdn.net/-3-chunk.web.main.js.out-34-a0b2e579347d92df.webpack, line 11: NS_ERROR_NOT_INITIALIZED: 
+Unable to read VR Path Registry from C:\Users\Sai Siva\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1525599182228	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 6032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Sai Siva\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Sai Siva\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 6184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Sai Siva\AppData\Local\openvr\openvrpaths.vrpath
